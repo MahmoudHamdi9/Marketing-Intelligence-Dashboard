@@ -298,7 +298,7 @@ A small number of individual posts that happened to go viral skewed the naive "b
 | Python / pandas | JSON normalization, null handling, multi-batch deduplication, surrogate key design |
 | Arabic NLP | Bilingual regex text cleaning that preserves Arabic Unicode while stripping noise |
 | Data Modeling | Star-schema design with conformed dimensions across 3 fact tables |
-| DAX | 60+ measures: normalization, rates, ratios, conditional formatting logic, time-intelligence |
+| DAX | 30+ measures: normalization, rates, ratios, conditional formatting logic, time-intelligence |
 | Power BI | Multi-page RTL-compatible report (Arabic language), heatmap scheduling analysis, trend forecasting visual |
 | Analytical Judgment | Identifying and correcting for statistical bias (influencer-driven outliers) before drawing conclusions |
 
