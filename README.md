@@ -306,7 +306,7 @@ A small number of individual posts that happened to go viral skewed the naive "b
 
 ## About This Project
 
-An independent portfolio project built over ~1 month to demonstrate end-to-end data analytics skills. Not affiliated with or commissioned by any company referenced in the data. All brand names are anonymized (GM / CR). Data was collected from public social media pages via Apify — no private or user-level data was accessed.
+An independent portfolio project showcasing end-to-end data analytics and business intelligence skills. This project is not affiliated with or endorsed by any referenced company. Brand names are anonymized (GM / CR), and all data was collected exclusively from publicly available social media pages using Apify. No private or user-level data was accessed.
 
 ## 👤 Author
 
