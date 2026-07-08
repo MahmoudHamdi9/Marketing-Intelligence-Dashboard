@@ -31,7 +31,7 @@ The project follows a complete analytics pipeline — from data collection throu
 | Data Engineering | Python 3.13, pandas |
 | Text Processing | regex (Arabic + English NLP cleaning) |
 | Data Modeling | Power BI — Star Schema (Power Query) |
-| Analytical Layer | DAX — 60+ custom measures |
+| Analytical Layer | DAX — 30+ custom measures |
 | Visualization | Power BI — 9-page interactive report |
 | Version Control | Git & GitHub |
 
