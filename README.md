@@ -14,9 +14,9 @@
 
 ## Project Overview
 
-Most marketing teams measure social media performance by total followers or raw likes — numbers that are easy to read but often misleading. This project was built to go deeper: to turn twelve months of raw, unstructured social media data from three platforms into a structured analytical model that answers real questions about content efficiency, not just content volume.
+Most marketing teams measure social media performance by total followers or raw likes — numbers that are easy to read but often misleading. This project was built to go deeper: to turn raw, unstructured social media data from three platforms into a structured analytical model that answers real questions about content efficiency, not just content volume.
 
-The project follows a complete analytics pipeline — from data collection through ETL, data modeling, DAX, and interactive reporting — and produces a **9-page Power BI dashboard** covering performance exploration, opportunity detection, and data-backed recommendations per platform.
+The project follows a complete analytics pipeline — from data collection through ETL, data modeling, DAX, and interactive reporting — and produces a **11-page Power BI dashboard** covering performance exploration, opportunity detection, and data-backed recommendations per platform.
 
 **Important framing:** the benchmark brand (CR) is used here not as a direct competitor to "beat," but as an external reference point to better understand audience behavior and identify content patterns that resonate — a learning tool for the marketing team, not a scorecard.
 
